@@ -18,4 +18,4 @@ int main()
     getline(cin, plainText);
     convertToASCII(plainText);
     return 0;
-}
+} 
